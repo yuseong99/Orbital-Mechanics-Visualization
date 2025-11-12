@@ -2,9 +2,7 @@
 
 An interactive 3D educational tool for understanding orbital mechanics, developed as a final projecㅆ at Purdue University. This system allows users to observe celestial body motion and interactively modify core physical parameters such as solar mass, the gravitational constant, and orbital elements like eccentricity and inclination. By providing immediate visual feedback on these modifications, the tool makes abstract astrodynamics concepts more tangible and understandable.
 
-**Published as an IEEE-format academic paper**: [Interactive Orbital Mechanics Visualization Report.pdf](Interactive%20Orbital%20Mechanics%20Visualization%20Report.pdf)
-
-![Solar System Visualization](screenshot.png)
+**Published as an IEEE-format academic paper**: [Interactive Orbital Mechanics Visualization Report.pdf]
 
 ## Abstract
 
@@ -219,25 +217,3 @@ Potential improvements could include:
 - Comet trajectories
 - N-body gravitational interactions
 - Export of orbital data
-- Virtual reality support
-
-## Course Information
-
-**Course**: CS 530 - Data Visualization
-**Institution**: Purdue University
-**Semester**: Spring 2025
-**Author**: Yuseong Choi
-
-## License
-
-This project was created as a final project for CS 530. Please contact the author for usage permissions.
-
-## Acknowledgments
-
-- Planetary data from NASA Fact Sheets
-- Orbital mechanics calculations based on standard Keplerian formulas
-- Texture images sourced from public domain space imagery
-
-## Contact
-
-For questions or feedback, please reach out through GitHub issues.
